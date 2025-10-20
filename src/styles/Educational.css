@@ -1,0 +1,32 @@
+.educational-section {
+ border: 4px solid #66b2a0;
+ background-color: #e1eae5;
+ border-radius: 10px;
+ padding: 20px;
+ margin: 20px auto;
+ text-align: center;
+ width: 350px;
+}
+h2 {
+  font-size: 30px;
+  font-family: Dana Bold , peyda ;
+}
+.educational-section input{
+  display: block;
+  padding: 8px;
+  width: 80%;
+  margin: 10px auto;
+  border: 2px solid #a7d7b8;
+  border-radius: 10px;
+}
+.educational-section button{
+  background-color: #f8f6f1;
+  padding: 8px 16px;
+  margin-top: 10px;
+  cursor: pointer;
+  border-radius: 8px;
+  border: 2px solid #a7d7b8;
+}
+.educational-section button:hover{
+  background-color: #a7d7b8;
+}
